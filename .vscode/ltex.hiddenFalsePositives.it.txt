@@ -1,0 +1,1 @@
+{"rule":"ST_04_001","sentence":"^\\QQuesta mancanza di compatibilità all'indietro nonostante furono introdotti degli strumenti per la conversione automatica del codice dalla versione 2 alla 3 fece sì che quest'ultima venne accolta con scarso entusiasmo e il passaggio dalla alla major release più recente avvenne con estrema lentezza.\\E$"}
