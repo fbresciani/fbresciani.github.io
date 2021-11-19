@@ -1,5 +1,4 @@
 
-
 image: registry.gitlab.com/pages/hugo_extended:latest
 
 variables:
@@ -19,5 +18,3 @@ pages:
     - public
   rules:
     - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
-  only:
-    - main
