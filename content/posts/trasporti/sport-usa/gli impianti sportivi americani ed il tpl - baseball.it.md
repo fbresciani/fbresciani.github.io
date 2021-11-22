@@ -4,7 +4,7 @@ subtitle: ""
 date: 2016-08-06T00:00:00+02:00
 lastmod: 2020-06-13T14:56:50+02:00
 draft: false
-authors: ["Francesco Bresciani"]
+authors: ["fbresciani"]
 description: ""
 
 tags: ["Stati Uniti", "Metropolitane", "Light Rail", "Tram"]
