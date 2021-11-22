@@ -1,4 +1,4 @@
-baseURL = "https://fbresciani.gitlab.io"
+baseURL = "https://fbresciani.github.io"
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "it"
@@ -684,7 +684,7 @@ enableEmoji = true
 [author]
   name = "Francesco Bresciani"
   email = "francesco.b74+blog@gmail.com"
-  link = "https://fbresciani.gitlab.io"
+  link = "https://fbresciani.github.io"
   avatar = ""
   gravatarEmail = "francesco.b74@gmail.com"
 
