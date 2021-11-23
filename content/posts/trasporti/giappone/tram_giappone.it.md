@@ -6,7 +6,7 @@ draft: false
 authors: ["fbresciani"]
 description: ""
 
-tags: ["Giappone", "Streetcar", "Light rail"]
+tags: ["Tram", "Giappone", "Streetcar", "Light rail"]
 categories: ["Trasporti in Giappone"]
 series: ["Tram in Giappone"]
 
