@@ -7,7 +7,7 @@ authors: ["fbresciani"]
 description: ""
 
 tags: ["Giappone", "Streetcar", "Light rail"]
-categories: ["Trasporti", "Trasporti in Giappone"]
+categories: ["Trasporti in Giappone"]
 series: ["Tram in Giappone"]
 
 hiddenFromHomePage: false

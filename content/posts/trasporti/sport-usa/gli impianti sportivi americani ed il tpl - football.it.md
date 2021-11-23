@@ -8,7 +8,7 @@ authors: ["fbresciani"]
 description: ""
 
 tags: ["Stati Uniti", "Metropolitane", "Light Rail", "Tram"]
-categories: ["Trasporti", "Trasporti negli Stati Uniti"]
+categories: ["Trasporti negli Stati Uniti"]
 series: ["Impianti sportivi USA e TPL"]
 series_weight: 3
 
