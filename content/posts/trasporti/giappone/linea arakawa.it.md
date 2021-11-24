@@ -9,7 +9,7 @@ description: ""
 
 tags: ["Tram","Giappone", "Streetcar" ]
 categories: ["Trasporti in Giappone"]
-series: ["Tram in Giappone"]
+series: ["tram-in-giappone"]
 
 hiddenFromHomePage: false
 hiddenFromSearch: false

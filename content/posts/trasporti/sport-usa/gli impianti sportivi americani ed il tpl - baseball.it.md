@@ -9,7 +9,7 @@ description: ""
 
 tags: ["Stati Uniti", "Metropolitane", "Light Rail", "Tram"]
 categories: ["Trasporti negli Stati Uniti"]
-series: ["Impianti sportivi USA e TPL"]
+series: ["sport-usa-tpl"]
 series_weight: 2
 hiddenFromHomePage: false
 hiddenFromSearch: false
