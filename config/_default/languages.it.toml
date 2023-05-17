@@ -1,0 +1,27 @@
+languageCode = "it_it"
+languageName = "Italiano"
+displayName = ":flag-it:"
+isoCode = "en-IT"
+weight = 1
+rtl = false
+
+title = "Blog di fbresciani"
+description = "Programmazione, software open source, trasporto pubblico e altro ancora..."
+copyright = "&copy; 2016-2023 Francesco Bresciani"
+
+dateFormat = "2 January 2006"
+
+[params]
+  mainSections = ["blog", "tutorial"]
+
+[author]
+  name = "Francesco Bresciani"
+  image = ""
+  headline = ""
+  bio = "Appassionato di tecnologia, fantascienza, trasporti su ferro e altro ancora..."
+  links = [
+    { twitter = "https://twitter.com/fbresciani574" },
+    { mastodon = "https://mastodon.social/@fbresciani@mastodon.uno"},
+    { youtube = "https://youtube.com/@francescobresciani" },
+    { email = "mailto:fbresciani574@gmail.com"}
+  ]
