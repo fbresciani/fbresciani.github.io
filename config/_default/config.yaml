@@ -1,0 +1,47 @@
+baseURL: https://fbresciani.github.io
+title: Blog di fbresciani
+theme: github.com/razonyang/hugo-theme-bootstrap
+copyright: 'Copyright © 2024-{year} Francesco Bresciani. All Rights Reserved.'
+defaultContentLanguage: it
+languageCode: it-it
+# hasCJKLanguage: true # Uncomment it if your content contains Chinese/Japanese/Korean Languages.
+#defaultContentLanguageInSubdir: true # DO NOT enable if there is only one language otherwise hugo will fail while generating archive pages using the hugo-theme-bootstrap theme
+# disableLanguages:
+#  - fr
+#  - zh-cn
+#  - zh-tw
+paginate: 10
+# paginatePath: page
+enableRobotsTXT: true
+enableEmoji: true
+pygmentsUseClasses: true
+
+taxonomies:
+  category: categories
+  series: series
+  tag: tags
+  #authors: authors
+
+build:
+  writeStats: true
+
+permalinks:
+  news: /news/:year/:month/:title/
+  blog: /blog/:year/:month/:title/
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    parser:
+      attribute:
+        block: true
+        title: true
+  
+
+# module:
+  # proxy: https://goproxy.cn
+
+# services:
+#   disqus:
+#     shortname: your-disqus-shortname

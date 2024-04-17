@@ -1,0 +1,435 @@
+[404_title]
+other = "Oops! Page non trovata"
+
+[404_info]
+other = "Purtroppo on riusciamo a trovare la pagina che stavi cercando."
+
+[about_me]
+other = "Informazioni su di me"
+
+[actions]
+other = "Azioni"
+
+[alipay]
+other = "Alipay"
+
+[all]
+other = "Tutto"
+
+[archives]
+other = "Archivi"
+
+[authors]
+other = "Autori"
+
+[browse_docs]
+other = "Sfoglia documentazione"
+
+[button_copy_url]
+other = "Copia URL"
+
+[button_fullscreen]
+other = "Schermo intero"
+
+[button_reload]
+other = "Ricarica"
+
+[button_run_game]
+other = "Lancia gioco"
+
+[button_social_share]
+other = "Condividi"
+
+[button_submit]
+other = "Invia"
+
+[buy_me_a_coffee]
+other = "Buy me a coffee"
+
+[categories]
+other = "Categorie"
+
+[color_blue]
+other = "Blu"
+
+[color_blue_gray]
+other = "Blu-Grigio"
+
+[color_brown]
+other = "Marrone"
+
+[color_cyan]
+other = "Ciano"
+
+[color_green]
+other = "Verde"
+
+[color_indigo]
+other = "Indaco"
+
+[color_orange]
+other = "Arancione"
+
+[color_pink]
+other = "Rosa"
+
+[color_purple]
+other = "Viola"
+
+[color_red]
+other = "Rosso"
+
+[color_teal]
+other = "Verde Acqua"
+
+[color_yellow]
+other = "Giallo"
+
+[comments]
+other = "Commenti"
+
+[comments_email]
+other = "Email"
+
+[comments_message]
+other = "Messaggio"
+
+[comments_name]
+other = "Nome"
+
+[comments_reply]
+other = "Rispondi"
+
+[comments_reply_to]
+other = "Rispondi a"
+
+[comments_submit]
+other = "Invia"
+
+[comments_url]
+other = "URL"
+
+[contact_name]
+other = "Nome"
+
+[contact_email]
+other = "Email"
+
+[contact_email_help]
+other = "Non condivideremo la tua mail con nessun altro."
+
+[contact_file]
+other = "File"
+
+[contact_subject]
+other = "Soggetto"
+
+[contact_message]
+other = "Messaggio"
+
+[copyright]
+other = "Copyright"
+
+[featured_posts]
+other = "Articoli in evidenza"
+
+[font_size]
+other = "Dimensione caratteri"
+
+[font_size_lg]
+other = "Grande"
+
+[font_size_md]
+other = "Media"
+
+[font_size_sm]
+other = "Piccola"
+
+[font_size_xl]
+other = "Molto grande"
+
+[font_size_xs]
+other = "Molto piccola"
+
+[funding_alipay]
+other = "Alipay"
+
+[funding_buymeacoffee]
+other = "Buy Me a Coffee"
+
+[funding_ko_fi]
+other = "Ko-fi"
+
+[funding_open_collective]
+other = "Open Collective"
+
+[funding_patreon]
+other = "Patreon"
+
+[funding_wechat]
+other = "Wechat"
+
+[go_back]
+other = "Indietro"
+
+[home]
+other = "Home"
+
+[language]
+other = "Lingua"
+
+[liberapay]
+other = "Liberapay"
+
+[load]
+other = "Carica"
+
+[load_more]
+other = "Carica altri risultati"
+
+[mode]
+other = "Modalità"
+
+[noscript_info]
+other = "Il tuo browser non supporta JavaScript o è disabilitato"
+
+[offline_title]
+other = "Oops! Sei offline."
+
+[offline_info]
+other = """
+<p>Sembra che ci sia un problema con la tua conessione, per favore controlla lo stato della tua rete.</p>
+<p>Per favore contattaci se pensi sia un errore del server. Grazie.</p>
+"""
+
+[pagination_title]
+other = "Pagina {{ .PageNumber }}"
+
+[palette]
+other = "Paletta"
+
+[patreon]
+other = "Patreon"
+
+[paypal]
+other = "Paypal"
+
+[post_count]
+one = "{{ .Count }} articolo in totale"
+other = "{{ .Count }} articoli in total"
+
+[post_date]
+other = "creato il {{ .createdOn }}{{ with .updatedOn }}, modificato il {{ . }}{{ end }}."
+
+[posts]
+other = "Articoli"
+
+[profile]
+other = "Profilo"
+
+[read_more]
+other = "Leggi ancora"
+
+[reading_time]
+other = "{{ .ReadingTime }} min di lettura"
+
+[recent_posts]
+other = "Articoli recenti"
+
+[related_posts]
+other = "Articoli collegati"
+
+[repo_action_edit]
+other = "Modifica questa pagina"
+
+[repo_action_view]
+other = "Visualizza il sorgente della pagina"
+
+[repo_title]
+other = "Repository"
+
+[search]
+other = "Cerca"
+
+[search_advanced]
+other = "Avanzato"
+
+[search_date]
+other = "Data"
+
+[search_input_placeholder]
+other = "Testo da ricercare"
+
+[search_missing_keywords]
+other = "Per favore inserisci le chiavi di ricerca"
+
+[search_no_results]
+other = "Nessun risultato trovato"
+
+[search_score]
+other = "Punteggio"
+
+[search_shortcut]
+other = "Premi {{ .Shortcut }} per cercare"
+
+[search_sorting]
+other = "Ordinamento"
+
+[search_stat]
+other = "Trovati {{ .Total }} risultati"
+
+[sections]
+other = "Sezioni"
+
+[series]
+other = "Serie"
+
+[settings]
+other = "Impostazioni"
+
+[social_artstation]
+other = "ArtStation"
+
+[social_bilibili]
+other = "Bilibili"
+
+[social_bitbucket]
+other = "Bitbucket"
+
+[social_discord]
+other = "Discord"
+
+[social_discourse]
+other = "Discourse"
+
+[social_dockerhub]
+other = "Docker Hub"
+
+[social_email]
+other = "Email"
+
+[social_facebook]
+other = "Facebook"
+
+[social_facebookgroup]
+other = "Facebook Group"
+
+[social_github]
+other = "GitHub"
+
+[social_gitlab]
+other = "GitLab"
+
+[social_instagram]
+other = "Instagram"
+
+[social_itchio]
+other = "itch.io"
+
+[social_kaggle]
+other = "Kaggle"
+
+[social_lastfm]
+other = "Last.fm"
+
+[social_liberapay]
+other = "Liberapay"
+
+[social_linkedin]
+other = "LinkedIn"
+
+[social_mastodon]
+other = "Mastodon"
+
+[social_medium]
+other = "Medium"
+
+[social_patreon]
+other = "Patreon"
+
+[social_paypal]
+other = "PayPal"
+
+[social_pinterest]
+other = "Pinterest"
+
+[social_qq]
+other = "QQ"
+
+[social_quora]
+other = "Quora"
+
+[social_reddit]
+other = "Reddit"
+
+[social_rss]
+other = "RSS"
+
+[social_stackoverflow]
+other = "Stack Overflow"
+
+[social_telegram]
+other = "Telegram"
+
+[social_tipeee]
+other = "Tipeee"
+
+[social_tiktok]
+other = "TikTok"
+
+[social_tumblr]
+other = "Tumblr"
+
+[social_twitter]
+other = "Twitter"
+
+[social_website]
+other = "Website"
+
+[social_weibo]
+other = "Weibo"
+
+[social_xing]
+other = "XING"
+
+[social_youtube]
+other = "YouTube"
+
+[social_zhihu]
+other = "Zhihu"
+
+[stats]
+other = "Statistiche"
+
+[table_of_contents]
+other = "Indice"
+
+[tags]
+other = "Tag"
+
+[taxonomies]
+other = "Tassonomie"
+
+[theme_auto]
+other = "Automatico"
+
+[theme_dark]
+other = "Scuro"
+
+[theme_light]
+other = "Chiaro"
+
+[tipeee]
+other = "Tipeee"
+
+[toggle_sidebar]
+other = "Attiva/disattiva la barra laterale"
+
+[translations]
+other = "Traduzioni"
+
+[try_again]
+other = "Riprova"
+
+[wechat]
+other = "WeChat"

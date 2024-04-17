@@ -1,0 +1,17 @@
+name: Francesco Bresciani
+# avatar: images/profile.png # Avatar image. Default to "images/profile.webp".
+bio: Appassionato di Scienza, Tecnologia, Trasporti
+#company: Company # HTML markup are supported, such as: <a href="https://example.com" target="_blank" rel="noopener noreferrer">Company</a>.
+location: Milano, Italia # HTML markup are supported, such as: <a href='https://www.openstreetmap.org/search?query=Earth'>Earth</a>.
+# about: https://razonyang.com # The external about page. The internal about page will be used if not set.
+params: {
+  # layout: compact
+}
+# See https://hbs.razonyang.com/v1/en/docs/widgets/social-links/.
+social:
+  email: fbresciani574+blog@gmail.com
+  github: fbresciani
+  gitlab: fbresciani
+  twitter: fbresciani574
+  mastodon: "@fbresciani@mastodon.uno"
+  rss: "" # Remove RSS

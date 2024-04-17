@@ -1,0 +1,12 @@
+it:
+  languageName: Italiano
+  weight: 1
+  params:
+    archive:
+      dateFormat: "02-01"
+
+# en:
+#   languageName: English
+#   weight: 2
+
+
