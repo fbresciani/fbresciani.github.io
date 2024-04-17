@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://fbresciani.github.io/sitemap.xml
