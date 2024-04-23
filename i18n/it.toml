@@ -228,7 +228,7 @@ other = "Articoli"
 other = "Profilo"
 
 [read_more]
-other = "Leggi ancora"
+other = "Leggi di più..."
 
 [reading_time]
 other = "{{ .ReadingTime }} min di lettura"
