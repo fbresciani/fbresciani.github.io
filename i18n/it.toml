@@ -216,7 +216,7 @@ other = "Paypal"
 
 [post_count]
 one = "{{ .Count }} articolo in totale"
-other = "{{ .Count }} articoli in total"
+other = "{{ .Count }} articoli in totale"
 
 [post_date]
 other = "creato il {{ .createdOn }}{{ with .updatedOn }}, modificato il {{ . }}{{ end }}."
