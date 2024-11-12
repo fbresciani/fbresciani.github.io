@@ -1,0 +1,21 @@
+{{- $articles := len .RegularPages }} 
+{{- $sections := len (.RegularPages.GroupBy "Section") }} 
+{{- $types := len (.RegularPages.GroupBy "Type") }} 
+{{- $metrics := slice (dict "title" (i18n "metrics_posts" $articles) "count" $articles) }}
+{{- $metrics = $metrics | append (dict
+  "title" (i18n "metrics_page_sections" $sections)
+  "count" $sections)
+}}
+{{/*- $metrics = $metrics | append (dict
+  "title" (i18n "metrics_page_types" $types)
+  "count" $types)
+*/}}
+<ul class="nav justify-content-center mt-auto mb-0 hb-term-metrics">
+  {{ range $metrics }}
+    <li
+      class="nav-item d-flex flex-column justify-content-center align-items-center m-3">
+      <span class="mb-1 fw-bold btn btn-secondary rounded">{{ .count }}</span>
+      <span class="text-body-secondary">{{ .title }}</span>
+    </li>
+  {{ end }}
+</ul>

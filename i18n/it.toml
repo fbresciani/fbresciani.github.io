@@ -1,0 +1,260 @@
+# Le traduzioni si trovano sparse nei vari repository dei moduli, un commento indica da quale repository sono prese
+# Tradotte solo stringhe effettivamente utilizzate scoperte usando l'opzion --printI18nWarnings di hugo
+
+# hbstack/base
+[404_title]
+other = "Oops! Pagina non trovata."
+
+[404_info]
+other = "Non siamo in grado di trovare la pagina che stai cercando."
+
+# hbstack/blog
+[metrics_page_sections]
+one = "Sezione"
+other = "Sezioni"
+
+[metrics_page_types]
+one = "Tipo"
+other = "Tipi"
+
+[metrics_posts]
+one = "Articolo"
+other = "Articoli"
+
+[on_this_page]
+other = "In questa pagina"
+
+[read_more_about]
+other = "Leggi di più a proposito di {{ . }}."
+
+[reading_time]
+one = "{{ .Count }} minuto di lettura"
+other = "{{ .Count }} minuti di lettura"
+
+# hbstack/blog (folder: modules/sidebar)
+[featured_posts]
+other = "In evidenza"
+
+[recent_posts]
+other = "Recenti"
+
+# hbstack/breadcrumb
+[hb_breadcrumb_home]
+other = "Home"
+
+# hbstack/docs
+[docs_nav_title]
+other = "Naviga {{ . }}"
+
+[in_this_section]
+other = "In questa sezione"
+
+#[on_this_page]
+#other = "In questa pagina"
+
+# hbstack/header (folder: /modules/theme-toggle)
+[theme_auto]
+other = "Automatico"
+
+[theme_dark]
+other = "Scuro"
+
+[theme_light]
+other = "Chiaro"
+
+[theme_title]
+other = "Tema"
+
+# hbstack/noscript
+[noscript_info]
+other = "Il tuo browser non supporta JavaScript."
+
+# hbstack/slide
+[hb_slide_left]
+other = "Sinistra"
+
+[hb_slide_right]
+other = "Destra"
+
+# hbstack/social
+[social_afdian]
+other = "AFDIAN"
+
+[social_artstation]
+other = "ArtStation"
+
+[social_bilibili]
+other = "Bilibili"
+
+[social_bitbucket]
+other = "Bitbucket"
+
+[social_buymeacoffee]
+other = "Buy Me a Coffee"
+
+[social_codeberg]
+other = "Codeberg"
+
+[social_discord]
+other = "Discord"
+
+[social_discourse]
+other = "Discourse"
+
+[social_dockerhub]
+other = "Docker Hub"
+
+[social_facebook]
+other = "Facebook"
+
+[social_facebookgroup]
+other = "Gruppo Facebook"
+
+[social_github]
+other = "GitHub"
+
+[social_githubsponsors]
+other = "Sponsor GitHub"
+
+[social_gitlab]
+other = "GitLab"
+
+[social_instagram]
+other = "Instagram"
+
+[social_itchdotio]
+other = "itch.io"
+
+[social_kaggle]
+other = "Kaggle"
+
+[social_kofi]
+other = "Ko-fi"
+
+[social_lastfm]
+other = "Last.fm"
+
+[social_liberapay]
+other = "Liberapay"
+
+[social_linkedin]
+other = "LinkedIn"
+
+[social_mastodon]
+other = "Mastodon"
+
+[social_medium]
+other = "Medium"
+
+[social_opencollective]
+other = "Open Collective"
+
+[social_patreon]
+other = "Patreon"
+
+[social_paypal]
+other = "PayPal"
+
+[social_pinterest]
+other = "Pinterest"
+
+[social_quora]
+other = "Quora"
+
+[social_reddit]
+other = "Reddit"
+
+[social_rss]
+other = "RSS"
+
+[social_sinaweibo]
+other = "Sina Weibo"
+
+[social_stackoverflow]
+other = "Stack Overflow"
+
+[social_tel]
+other = "Telefono"
+
+[social_telegram]
+other = "Telegram"
+
+[social_tencetqq]
+other = "QQ"
+
+[social_tiktok]
+other = "TikTok"
+
+[social_tumblr]
+other = "Tumblr"
+
+[social_twitter]
+other = "Twitter"
+
+[social_website]
+other = "Website"
+
+[social_xing]
+other = "XING"
+
+[social_youtube]
+other = "YouTube"
+
+[social_zhihu]
+other = "Zhihu"
+
+# hbstack/social-share-buttons
+[social_share_button_email]
+other = "Email"
+
+[social_share_button_facebook]
+other = "Facebook"
+
+[social_share_button_linkedin]
+other = "LinkedIn"
+
+[social_share_button_reddit]
+other = "Reddit"
+
+[social_share_button_sinaweibo]
+other = "Sina Weibo"
+
+[social_share_button_telegram]
+other = "Telegram"
+
+[social_share_button_twitter]
+other = "Twitter"
+
+[social_share_button_whatsapp]
+other = "WhatsApp"
+
+[social_share_subject]
+other = "Vorrei condividere un collegamento con te"
+
+# hugomods/search
+[search]
+other = "Cerca"
+
+# senza file i18n
+# codice presente in hbstack/pwa/layout/_default/index.offline.html
+# converrebbe verificare bontà traduzioni
+[offline_title]
+other = "Titolo non in linea"
+
+[offline_info]
+other = "Informazione non in linea"
+[home]
+other = "Home"
+
+[go_back]
+other = "Torna indietro"
+
+[try_again]
+other = "Prova di nuovo"
+
+#non trovato repository corretto
+[comments]
+other = "Commenti"
+
+[social_gmail]
+other = "GMail"
