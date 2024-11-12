@@ -89,13 +89,13 @@ hb:
 #        - news
     giscus:
       repo: fbresciani/fbresciani.github.io
-      repo_id: xxx
-      category_id: xxx
+      repo_id: R_kgDONOCrWQ
+      category_id: DIC_kwDONOCrWc4CkMUY
   docs:
     giscus: 
       repo: fbresciani/fbresciani.github.io
-      repo_id: xxx
-      category_id: xxx
+      repo_id: R_kgDONOCrWQ
+      category_id: DIC_kwDONOCrWc4CkMUY
     social_share_buttons:
       alignment: center
       media:
