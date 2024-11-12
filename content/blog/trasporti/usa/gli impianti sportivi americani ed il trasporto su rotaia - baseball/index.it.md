@@ -61,7 +61,7 @@ San Francisco Giants | San Francisco | Oracle Park | 41331 | | Muni Metro linee 
 
 [^unionstation]: Lo stadio di baseball incorpora il restaurato fabbricato viaggiatori della dismessa Union Station di Houston
 [^bbvacompassstadium]: Le due linee servono anche il BBVA Compass Stadium, lo stadio della squadra di calcio di Houston, gli Houston Dinamo. Lo stadio è situato una fermata a est dello stadio di baseball
-[^Athletics]: gli Atheltichs si trasferiranno a Las Vegas. In attesa che sia pronto lo tsadio hanno annunciato che a partire dalla prossima stagione giocheranno a Sacramento, abbandonando definitivamente Oakland che nel giro di pochi ha perso tutte e 3 le franchigie professionistiche che vi giocavano
+[^Athletics]: gli Athletics si trasferiranno a Las Vegas. In attesa che sia pronto lo stadio hanno annunciato che a partire dalla prossima stagione giocheranno a Sacramento, abbandonando definitivamente Oakland che nel giro di pochi anni ha perso tutte e tre le franchigie professionistiche che avevano sede in città
 [^navetteculmer]: Servizio navetta gratuito dalla stazione di Culmer di MetroRail, posta a poco meno di 1,5 km in linea d'aria
 [^silverline]: La linea argento è esercita con vetture storiche (di tipo PCC)
 [^embarcadero]: La linea E è esercita con materiale storico, analogamente alla più famosa linea F
