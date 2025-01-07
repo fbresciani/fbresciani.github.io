@@ -4,14 +4,14 @@ go 1.19
 
 require (
 	github.com/GoogleChrome/workbox v7.3.0+incompatible // indirect
-	github.com/KaTeX/KaTeX v0.16.11 // indirect
+	github.com/KaTeX/KaTeX v0.16.19 // indirect
 	github.com/desandro/masonry v4.2.2+incompatible // indirect
 	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 // indirect
 	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
 	github.com/hbstack/back-to-top v0.2.0 // indirect
 	github.com/hbstack/base v0.6.2 // indirect
 	github.com/hbstack/bigger-picture v0.10.1 // indirect
-	github.com/hbstack/blog v0.38.1 // indirect
+	github.com/hbstack/blog v0.39.0 // indirect
 	github.com/hbstack/blog/modules/breadcrumb v0.1.23 // indirect
 	github.com/hbstack/blog/modules/content-panel v0.1.21 // indirect
 	github.com/hbstack/blog/modules/featured-image v0.2.21 // indirect
@@ -29,7 +29,7 @@ require (
 	github.com/hbstack/carousel v0.2.7 // indirect
 	github.com/hbstack/code-block-panel v0.1.2 // indirect
 	github.com/hbstack/content-panel v0.10.2 // indirect
-	github.com/hbstack/docs v0.21.0 // indirect
+	github.com/hbstack/docs v0.22.0 // indirect
 	github.com/hbstack/docs/modules/breadcrumb v0.1.10 // indirect
 	github.com/hbstack/docs/modules/content-panel v0.1.8 // indirect
 	github.com/hbstack/docs/modules/doc-nav v0.3.7 // indirect
@@ -61,9 +61,9 @@ require (
 	github.com/hbstack/slide v0.4.0 // indirect
 	github.com/hbstack/snackbar v0.1.2 // indirect
 	github.com/hbstack/social-share-buttons v0.4.0 // indirect
-	github.com/hbstack/socials v0.17.0 // indirect
-	github.com/hbstack/syntax-highlighting v0.2.0 // indirect
-	github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.1 // indirect
+	github.com/hbstack/socials v0.17.2 // indirect
+	github.com/hbstack/syntax-highlighting v0.2.1 // indirect
+	github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.2 // indirect
 	github.com/hbstack/theme-cards v0.1.1 // indirect
 	github.com/hbstack/toc-scrollspy v0.2.0 // indirect
 	github.com/henrygd/bigger-picture v1.1.19 // indirect
@@ -80,10 +80,10 @@ require (
 	github.com/hugomods/icons v0.6.6 // indirect
 	github.com/hugomods/icons/vendors/bootstrap v0.5.9 // indirect
 	github.com/hugomods/icons/vendors/font-awesome v0.6.12 // indirect
-	github.com/hugomods/icons/vendors/simple-icons v1.0.60 // indirect
+	github.com/hugomods/icons/vendors/simple-icons v1.1.0 // indirect
 	github.com/hugomods/idb-js v0.1.0 // indirect
 	github.com/hugomods/images v0.11.2 // indirect
-	github.com/hugomods/katex v0.3.3 // indirect
+	github.com/hugomods/katex v0.3.6 // indirect
 	github.com/hugomods/masonry-js v0.1.0 // indirect
 	github.com/hugomods/mermaid v0.1.4 // indirect
 	github.com/hugomods/pwa v0.9.0 // indirect
@@ -96,11 +96,11 @@ require (
 	github.com/hugomods/seo/modules/schema v0.1.3 // indirect
 	github.com/hugomods/seo/modules/translations v0.1.1 // indirect
 	github.com/hugomods/seo/modules/twitter-cards v0.1.1 // indirect
-	github.com/hugomods/shortcodes v0.23.0 // indirect
-	github.com/hugomods/simple-icons v13.18.0+incompatible // indirect
+	github.com/hugomods/shortcodes v0.24.0 // indirect
+	github.com/hugomods/simple-icons v13.21.0+incompatible // indirect
 	github.com/hugomods/snackbar v0.1.2 // indirect
 	github.com/hugomods/workbox v0.1.0 // indirect
-	github.com/jakearchibald/idb v8.0.0+incompatible // indirect
+	github.com/jakearchibald/idb v8.0.1+incompatible // indirect
 	github.com/krisk/Fuse v7.0.0+incompatible // indirect
 	github.com/twbs/bootstrap v5.3.3+incompatible // indirect
 	github.com/twbs/icons v1.11.3 // indirect
