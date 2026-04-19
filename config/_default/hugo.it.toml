@@ -1,0 +1,9 @@
+weight = 1
+# language code
+locale = "it"
+# language name
+label = "Italiano"
+# whether to include Chinese/Japanese/Korean
+hasCJKLanguage = false
+# copyright description used only for seo schema
+copyright = "Questo lavoro è distribuito secondo i termini della licenza Creative Commons CC BY-NC-SA 4.0"
