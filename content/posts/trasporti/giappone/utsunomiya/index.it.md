@@ -3,15 +3,11 @@
 title: La light rail di Utsunomiya
 date: 2024-04-24T11:58:32Z
 draft: true
-comment: true
 toc: true
-reward: true
-pinned: false
-carousel: false
 tags: ["Tram", "Giappone", "Light rail"]
 categories: ["Trasporti Giappone"]
 series: ["tram in giappone"]
-author: ["fbresciani"]
+authors: ["fbresciani"]
 images: []
 ---
 
