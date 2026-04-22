@@ -420,7 +420,7 @@ bundle = false
 # Analytics config
 # 网站分析配置
 [analytics]
-  enable = false
+  enable = true
   # Google Analytics
   [analytics.google]
     id = ""
@@ -476,6 +476,10 @@ bundle = false
     # respect the do not track setting of the browser
     # 遵循浏览器的”要求网站不跟踪我“设定
     Do_not_track = true
+    #goatcounter
+    [analytics.goatcounter]
+    enable = true
+    id = "fbresciani"
 
 # Cookie consent config
 # Cookie 许可配置
